@@ -14,7 +14,7 @@ const Navbar = () => {
 
   return (
     <nav className="flex justify-between px-20 py-5 items-center bg-slate-300">
-      <h1 className="text-xl text-gray-800 font-bold">HotCoffee</h1>
+      <h1 className="text-xl text-gray-800 font-bold">Car Market</h1>
       <div className="flex items-center bg-white w-2/5 p-2">
           <svg
             xmlns="http://www.w3.org/2000/svg"
